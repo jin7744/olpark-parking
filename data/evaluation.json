@@ -1,0 +1,62 @@
+{
+ "prereg": "prereg/prereg_20261111_1947.json",
+ "evaluated": "2026-11-12 19:08",
+ "results": [
+  {
+   "date": "2026-11-13",
+   "risk": "보통",
+   "analog": "2024-07-12",
+   "coverage": 0.0,
+   "verdict": "공연 전·진행 중"
+  },
+  {
+   "date": "2026-11-14",
+   "risk": "높음",
+   "analog": "2024-07-20",
+   "coverage": 0.0,
+   "verdict": "공연 전·진행 중"
+  },
+  {
+   "date": "2026-11-15",
+   "risk": "높음",
+   "analog": "2024-07-21",
+   "coverage": 0.0,
+   "verdict": "공연 전·진행 중"
+  },
+  {
+   "date": "2026-11-21",
+   "risk": "높음",
+   "analog": "2024-07-27",
+   "coverage": 0.0,
+   "verdict": "공연 전·진행 중"
+  },
+  {
+   "date": "2026-11-22",
+   "risk": "높음",
+   "analog": "2024-07-28",
+   "coverage": 0.0,
+   "verdict": "공연 전·진행 중"
+  },
+  {
+   "date": "2026-11-27",
+   "risk": "높음",
+   "analog": "2024-07-12",
+   "coverage": 0.0,
+   "verdict": "공연 전·진행 중"
+  },
+  {
+   "date": "2026-11-28",
+   "risk": "높음",
+   "analog": "2024-07-20",
+   "coverage": 0.0,
+   "verdict": "공연 전·진행 중"
+  },
+  {
+   "date": "2026-11-29",
+   "risk": "높음",
+   "analog": "2024-07-21",
+   "coverage": 0.0,
+   "verdict": "공연 전·진행 중"
+  }
+ ]
+}

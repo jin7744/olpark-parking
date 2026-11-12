@@ -1,0 +1,287 @@
+{
+ "summary": {
+  "n": 9,
+  "entry_hit": 4,
+  "exit_hit": 7
+ },
+ "items": [
+  {
+   "date": "2024-07-06",
+   "entry": {
+    "start": "16:30",
+    "end": "17:30",
+    "peak": "17:00",
+    "method": "공연 시작 60분 전(2024-07 공연일 중앙값) ±30분"
+   },
+   "exit": {
+    "start": "21:10",
+    "end": "22:10",
+    "peak": "21:40",
+    "method": "공지 종료 + 60분(2024-07 공연일 8일 중앙값) ±30분"
+   }
+  },
+  {
+   "date": "2024-07-07",
+   "entry": {
+    "start": "16:30",
+    "end": "17:30",
+    "peak": "17:00",
+    "method": "공연 시작 60분 전(2024-07 공연일 중앙값) ±30분"
+   },
+   "exit": {
+    "start": "20:10",
+    "end": "21:10",
+    "peak": "20:40",
+    "method": "공지 종료 + 60분(2024-07 공연일 8일 중앙값) ±30분"
+   }
+  },
+  {
+   "date": "2024-07-12",
+   "entry": {
+    "start": "17:10",
+    "end": "18:10",
+    "peak": "17:40",
+    "method": "공연 시작 80분 전(2024-07 공연일 중앙값) ±30분"
+   },
+   "exit": {
+    "start": "21:30",
+    "end": "22:30",
+    "peak": "22:00",
+    "method": "공지 종료 + 60분(2024-07 공연일 8일 중앙값) ±30분"
+   }
+  },
+  {
+   "date": "2024-07-13",
+   "entry": {
+    "start": "15:30",
+    "end": "16:30",
+    "peak": "16:00",
+    "analog_peak_per10": 210,
+    "method": "비슷한 실측일 2024-07-20 입차 정점 (시작 -60분 이동) ±30분"
+   },
+   "exit": {
+    "start": "21:40",
+    "end": "22:40",
+    "peak": "22:10",
+    "method": "공지 종료 + 70분(2024-07 공연일 8일 중앙값) ±30분"
+   }
+  },
+  {
+   "date": "2024-07-14",
+   "entry": {
+    "start": "15:40",
+    "end": "16:40",
+    "peak": "16:10",
+    "analog_peak_per10": 238,
+    "method": "비슷한 실측일 2024-07-21 입차 정점 ±30분"
+   },
+   "exit": {
+    "start": "19:40",
+    "end": "20:40",
+    "peak": "20:10",
+    "method": "공지 종료 + 70분(2024-07 공연일 8일 중앙값) ±30분"
+   }
+  },
+  {
+   "date": "2024-07-20",
+   "entry": {
+    "start": "16:10",
+    "end": "17:10",
+    "peak": "16:40",
+    "analog_peak_per10": 156,
+    "method": "비슷한 실측일 2024-07-13 입차 정점 (시작 +60분 이동) ±30분"
+   },
+   "exit": {
+    "start": "21:10",
+    "end": "22:10",
+    "peak": "21:40",
+    "method": "공지 종료 + 70분(2024-07 공연일 8일 중앙값) ±30분"
+   }
+  },
+  {
+   "date": "2024-07-21",
+   "entry": {
+    "start": "14:30",
+    "end": "15:30",
+    "peak": "15:00",
+    "analog_peak_per10": 173,
+    "method": "비슷한 실측일 2024-07-14 입차 정점 ±30분"
+   },
+   "exit": {
+    "start": "20:10",
+    "end": "21:10",
+    "peak": "20:40",
+    "method": "공지 종료 + 70분(2024-07 공연일 8일 중앙값) ±30분"
+   }
+  },
+  {
+   "date": "2024-07-27",
+   "entry": {
+    "start": "16:30",
+    "end": "17:30",
+    "peak": "17:00",
+    "analog_peak_per10": 210,
+    "method": "비슷한 실측일 2024-07-20 입차 정점 ±30분"
+   },
+   "exit": {
+    "start": "20:40",
+    "end": "21:40",
+    "peak": "21:10",
+    "method": "공지 종료 + 70분(2024-07 공연일 8일 중앙값) ±30분"
+   }
+  },
+  {
+   "date": "2024-07-28",
+   "entry": {
+    "start": "14:30",
+    "end": "15:30",
+    "peak": "15:00",
+    "analog_peak_per10": 173,
+    "method": "비슷한 실측일 2024-07-14 입차 정점 ±30분"
+   },
+   "exit": {
+    "start": "18:30",
+    "end": "19:30",
+    "peak": "19:00",
+    "method": "공지 종료 + 60분(2024-07 공연일 8일 중앙값) ±30분"
+   }
+  }
+ ],
+ "results": [
+  {
+   "date": "2024-07-06",
+   "risk": "보통",
+   "analog": null,
+   "coverage": 1.0,
+   "entry_obs": "15:55",
+   "entry_obs_gain30": 69,
+   "entry_hit": false,
+   "exit_obs": "22:20",
+   "exit_obs_drop30": 238,
+   "exit_hit": true,
+   "obs_max": 948,
+   "obs_max_time": "17:00",
+   "full_reached": false
+  },
+  {
+   "date": "2024-07-07",
+   "risk": "보통",
+   "analog": null,
+   "coverage": 1.0,
+   "entry_obs": "15:40",
+   "entry_obs_gain30": 50,
+   "entry_hit": false,
+   "exit_obs": "21:25",
+   "exit_obs_drop30": 227,
+   "exit_hit": true,
+   "obs_max": 908,
+   "obs_max_time": "16:05",
+   "full_reached": false
+  },
+  {
+   "date": "2024-07-12",
+   "risk": "보통",
+   "analog": null,
+   "coverage": 1.0,
+   "entry_obs": "18:00",
+   "entry_obs_gain30": 88,
+   "entry_hit": true,
+   "exit_obs": "23:00",
+   "exit_obs_drop30": 276,
+   "exit_hit": false,
+   "obs_max": 992,
+   "obs_max_time": "10:50",
+   "full_reached": false
+  },
+  {
+   "date": "2024-07-13",
+   "risk": "높음",
+   "analog": "2024-07-20",
+   "coverage": 1.0,
+   "entry_obs": "16:35",
+   "entry_obs_gain30": 70,
+   "entry_hit": true,
+   "exit_obs": "20:55",
+   "exit_obs_drop30": 322,
+   "exit_hit": false,
+   "obs_max": 1130,
+   "obs_max_time": "16:40",
+   "full_reached": false
+  },
+  {
+   "date": "2024-07-14",
+   "risk": "높음",
+   "analog": "2024-07-21",
+   "coverage": 1.0,
+   "entry_obs": "15:10",
+   "entry_obs_gain30": 131,
+   "entry_hit": false,
+   "exit_obs": "20:25",
+   "exit_obs_drop30": 293,
+   "exit_hit": true,
+   "obs_max": 919,
+   "obs_max_time": "15:45",
+   "full_reached": false
+  },
+  {
+   "date": "2024-07-20",
+   "risk": "높음",
+   "analog": "2024-07-13",
+   "coverage": 1.0,
+   "entry_obs": "16:45",
+   "entry_obs_gain30": 287,
+   "entry_hit": true,
+   "exit_obs": "21:50",
+   "exit_obs_drop30": 664,
+   "exit_hit": true,
+   "obs_max": 2034,
+   "obs_max_time": "17:35",
+   "full_reached": true
+  },
+  {
+   "date": "2024-07-21",
+   "risk": "높음",
+   "analog": "2024-07-14",
+   "coverage": 1.0,
+   "entry_obs": "16:20",
+   "entry_obs_gain30": 295,
+   "entry_hit": false,
+   "exit_obs": "20:45",
+   "exit_obs_drop30": 634,
+   "exit_hit": true,
+   "obs_max": 2213,
+   "obs_max_time": "16:50",
+   "full_reached": true
+  },
+  {
+   "date": "2024-07-27",
+   "risk": "높음",
+   "analog": "2024-07-20",
+   "coverage": 1.0,
+   "entry_obs": "16:45",
+   "entry_obs_gain30": 91,
+   "entry_hit": true,
+   "exit_obs": "21:00",
+   "exit_obs_drop30": 290,
+   "exit_hit": true,
+   "obs_max": 1065,
+   "obs_max_time": "11:05",
+   "full_reached": false
+  },
+  {
+   "date": "2024-07-28",
+   "risk": "높음",
+   "analog": "2024-07-14",
+   "coverage": 1.0,
+   "entry_obs": "13:55",
+   "entry_obs_gain30": 172,
+   "entry_hit": false,
+   "exit_obs": "19:40",
+   "exit_obs_drop30": 313,
+   "exit_hit": true,
+   "obs_max": 1167,
+   "obs_max_time": "15:25",
+   "full_reached": false
+  }
+ ]
+}
